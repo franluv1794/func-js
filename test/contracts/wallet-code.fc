@@ -3,7 +3,13 @@
 #include "stdlib.fc"
 
 // Define the public key of the wallet owner
-int owner_pubkey = <somosricos>;
+int owner_pubkey = <MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2tA6Rt5H0pF7a5DQ3JVV
++gJz65O5E5Qvch0y0Fdj5M7hn+O5fOGH+Kb1W+htLRrP8gWx8SmlXbh7lkG3JOK6
+y5x3+sZtQftMfKr9ukZgnTe48syFk9P4EyjRxJr1HVvXjS7FQm5kWIK9N7zXZ0+z
+idgkfDmrCGoXWjT8+k2M2ZP6zQXXyHJsqVhV5Qsw87Njc13p7QvwZJryOM8HptG+
+3pH/1fnVvGxPgn0bxPf5DPIWkftw4BCibcFg7ny9t2mK0PHxPOaVfWBjDptM8yz+
+C5bs/O1cwV8UkhbiJkx23AWF1aE9FZL5uQ5i7U92Bd+Jb3OcXkdDOLzUNU6zZ5Hz
+9wIDAQAB>;
 
 // Main function to process incoming messages
 int main() {
